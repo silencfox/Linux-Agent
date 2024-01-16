@@ -1,0 +1,6 @@
+
+# provider details
+provider "azurerm" {
+  subscription_id = var.subscriptionID
+  features {}
+}
